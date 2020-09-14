@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fork work with Vlad
+=======
+hello my friend
+>>>>>>> newbranch
