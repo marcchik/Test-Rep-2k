@@ -3,3 +3,5 @@ fork work with Vlad
 =======
 hello my friend
 >>>>>>> newbranch
+
+изменений сделаны во второй ветке, чтобы соединить их с третьей
